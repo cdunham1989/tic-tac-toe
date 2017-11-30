@@ -1,4 +1,4 @@
-#Tic Tac Toe
+# Tic Tac Toe
 
 Tic Tac Toe tech test undertaken as part of the Makers Academy tech test week.
 
@@ -22,7 +22,9 @@ I started with some research into hash tables in JavaScript to help fuel my desi
 
 ## Things still to do
 
-
+* Create a game object which handles the players turns and ending the game.
+* Create a board object which stores the players moves and displays them.
+* Added the ability for the game object to print the winner to the screen when someone wins.
 
 ## How to run the app locally
 
