@@ -1,0 +1,26 @@
+{
+  "name": "tic-tac-toe",
+  "version": "1.0.0",
+  "description": "tic tac toe tech test",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "nyc jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cdunham1989/tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdunham1989/tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/cdunham1989/tic-tac-toe#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0",
+    "nyc": "^11.3.0"
+  }
+}
