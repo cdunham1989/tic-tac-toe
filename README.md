@@ -25,3 +25,7 @@ I started with some research into hash tables in JavaScript to help fuel my desi
 
 
 ## How to run the app locally
+
+* Clone the repository
+* Run `npm install`
+* Run `npm test` to see the tests and test coverage.
